@@ -15,3 +15,14 @@ This project is a simple Python calculator that supports basic arithmetic operat
    ```bash
    git clone https://github.com/yourusername/calculator-project.git
    cd calculator-project
+
+Create a virtual environment and activate it:
+python3 -m venv venv
+source venv/bin/activate  # For Linux/Mac
+venv\Scripts\activate     # For Windows
+
+Install dependencies:
+pip install -r requirements.txt
+
+Run the calculator:
+python main.py

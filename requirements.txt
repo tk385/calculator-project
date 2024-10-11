@@ -1,0 +1,5 @@
+This file lists the dependencies required to run your project. For your project, since you're using pytest for testing, the requirements.txt would look like this:
+
+pytest
+
+If you're using any other packages or modules, you can include them here as well. When a user runs pip install -r requirements.txt, it will install all the listed dependencies.
